@@ -221,7 +221,7 @@ const Index = () => {
               </Button>
             </Link>
             <Link to="/register?type=employer">
-              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-blue-600">
+              <Button size="lg" variant="outline" className="bg-white text-blue-600 hover:bg-gray-50">
                 Post a Job
               </Button>
             </Link>
